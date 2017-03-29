@@ -3,6 +3,9 @@ MicroPython Morse Code
 
 Blink an LED with morse coded message
 
+## Example main.py
+Blink the last 3 digits of device's IP address
+
 ```
 import morsecode
 import network
